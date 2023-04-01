@@ -1,4 +1,4 @@
-<h1> align="center">
+<h1 align="center">
     <br>My Team Page
 </h1>
 
@@ -6,7 +6,7 @@
     Esse projeto foi criado através do rocketsect onde ensinam a programar
 </h4>
 
-<img src="">
+<img src="https://github.com/gabrielcarlos-dev/rocketsect/blob/master/images/Bloco%20de%20Texto%20com%20Mockup%20de%20Notebook%20Alinhado%20%C3%A0%20Direita%20(6).png?raw=true">
 <br>
   <h3>💻 DESCRIÇÃO </h3>
 
